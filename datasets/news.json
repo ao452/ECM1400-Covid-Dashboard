@@ -1,0 +1,87 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "author": "newsfeeds@nzherald.co.nz",
+            "source": {
+                "Id": null,
+                "Name": "New Zealand Herald"
+            },
+            "publishedAt": "2022-08-06T00:45:00Z",
+            "url": "https://www.nzherald.co.nz/nz/covid-19-coronavirus-omicron-variant-outbreak-4790-new-cases-as-winter-ills-hit-workforce/GX6HGNQRZKKFMOK4LIAAEIO55E/"
+        },
+        {
+            "author": null,
+            "source": {
+                "Id": null,
+                "Name": "Www.gov.uk"
+            },
+            "publishedAt": "2022-08-05T11:00:09Z",
+            "url": "https://www.gov.uk/government/statistics/coronavirus-covid-19-infection-survey-uk-5-august-2022"
+        },
+        {
+            "author": null,
+            "source": {
+                "Id": null,
+                "Name": "Www.gov.uk"
+            },
+            "publishedAt": "2022-08-05T06:03:18Z",
+            "url": "https://www.gov.uk/government/publications/coronavirus-covid-19-data-on-funding-claims-by-institutions"
+        },
+        {
+            "author": null,
+            "source": {
+                "Id": null,
+                "Name": "Www.gov.uk"
+            },
+            "publishedAt": "2022-08-04T08:30:01Z",
+            "url": "https://www.gov.uk/government/statistics/prevalence-of-ongoing-symptoms-following-coronavirus-covid-19-infection-in-the-uk-4-august-2022"
+        },
+        {
+            "author": null,
+            "source": {
+                "Id": null,
+                "Name": "Www.gov.uk"
+            },
+            "publishedAt": "2022-08-02T07:28:16Z",
+            "url": "https://www.gov.uk/government/statistics/announcements/coronavirus-covid-19-infection-survey-northern-ireland-weekly-report-5-august-2022"
+        },
+        {
+            "author": "newsfeeds@nzherald.co.nz",
+            "source": {
+                "Id": null,
+                "Name": "New Zealand Herald"
+            },
+            "publishedAt": "2022-08-02T00:17:44Z",
+            "url": "https://www.nzherald.co.nz/nz/covid-19-coronavirus-midwives-ask-government-to-justify-ongoing-vaccine-mandate/7NRCGOLOKKQUFZYOPPTNUDQ36A/"
+        },
+        {
+            "author": "Newshub",
+            "source": {
+                "Id": null,
+                "Name": "Newshub"
+            },
+            "publishedAt": "2022-08-02T01:04:10Z",
+            "url": "https://www.newshub.co.nz/home/new-zealand/2022/08/coronavirus-ministry-of-health-to-release-daily-covid-19-figures.html"
+        },
+        {
+            "author": "",
+            "source": {
+                "Id": null,
+                "Name": "KRGV"
+            },
+            "publishedAt": "2022-08-05T18:31:00Z",
+            "url": "http://www.krgv.com/news/hidalgo-county-reports-4-coronavirus-related-deaths-836-cases-of-covid-19/"
+        },
+        {
+            "author": "",
+            "source": {
+                "Id": null,
+                "Name": "KRGV"
+            },
+            "publishedAt": "2022-08-02T20:05:00Z",
+            "url": "http://www.krgv.com/news/hidalgo-county-reports-three-coronavirus-related-deaths-1-283-cases-of-covid-19/"
+        }
+    ]
+}

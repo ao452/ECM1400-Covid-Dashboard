@@ -1,0 +1,31 @@
+{
+    "News Section Config": {
+
+        "APIkey": "2f4e5299a15d4f6694ce8ee5b9f9d5ff",
+        "days": 5
+    },
+
+    "Covid Data Config": {
+    "Local Data": [
+        "areaType=ltla",
+        "areaName=Exeter"
+    ],
+    "Nation Data": [
+        "areaType=nation",
+        "areaName=England"
+],
+        "Output Format": {
+            "date": "date",
+            "areaName": "areaName",
+            "areaCode": "areaCode",
+            "newCasesByPublishDate": "newCasesByPublishDate",
+            "cumCasesByPublishDate": "cumCasesByPublishDate",
+            "newDeaths28DaysByDeathDate": "newDeaths28DaysByDeathDate",
+            "cumDeaths28DaysByDeathDate": "cumDeaths28DaysByDeathDate",
+            "hospitalCases": "hospitalCases"
+        }
+
+
+    }
+
+}
